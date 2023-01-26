@@ -16,7 +16,7 @@ TARGET_OTA_ASSERT_DEVICE := beryllium
 AUDIO_FEATURE_ENABLED_FM_POWER_OPT := true
 
 # Display
-TARGET_SCREEN_DENSITY := 440
+TARGET_SCREEN_DENSITY := 420
 
 # Kernel
 TARGET_KERNEL_CONFIG += vendor/xiaomi/beryllium.config
