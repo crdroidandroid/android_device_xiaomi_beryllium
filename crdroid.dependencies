@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi-beryllium",
+    "target_path": "vendor/xiaomi/beryllium"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_xiaomi_sdm845-common",
+    "target_path": "vendor/xiaomi/sdm845-common"
+  }
+]
