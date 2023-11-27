@@ -1,5 +1,6 @@
 # Camera
 persist.vendor.camera.perfcapture=1
+ro.face.sense_service.camera_id=5
 
 # Recovery
 ro.recovery.ui.margin_height=87
